@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dictionary_availability_of_elements_example/1.0.0": {
+        "runtime": {
+          "Dictionary_availability_of_elements_example.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dictionary_availability_of_elements_example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_field\bin\Debug\netcoreapp3.1\Dictionary_field.exe
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_field\bin\Debug\netcoreapp3.1\Dictionary_field.deps.json
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_field\bin\Debug\netcoreapp3.1\Dictionary_field.runtimeconfig.json
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_field\bin\Debug\netcoreapp3.1\Dictionary_field.runtimeconfig.dev.json
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_field\bin\Debug\netcoreapp3.1\Dictionary_field.dll
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_field\bin\Debug\netcoreapp3.1\Dictionary_field.pdb
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_field\obj\Debug\netcoreapp3.1\Dictionary_field.AssemblyInfoInputs.cache
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_field\obj\Debug\netcoreapp3.1\Dictionary_field.AssemblyInfo.cs
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_field\obj\Debug\netcoreapp3.1\Dictionary_field.csproj.CoreCompileInputs.cache
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_field\obj\Debug\netcoreapp3.1\Dictionary_field.dll
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_field\obj\Debug\netcoreapp3.1\Dictionary_field.pdb
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_field\obj\Debug\netcoreapp3.1\Dictionary_field.genruntimeconfig.cache

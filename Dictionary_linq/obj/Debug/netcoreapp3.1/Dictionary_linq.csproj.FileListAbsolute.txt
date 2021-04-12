@@ -1,0 +1,12 @@
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_linq\bin\Debug\netcoreapp3.1\Dictionary_linq.exe
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_linq\bin\Debug\netcoreapp3.1\Dictionary_linq.deps.json
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_linq\bin\Debug\netcoreapp3.1\Dictionary_linq.runtimeconfig.json
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_linq\bin\Debug\netcoreapp3.1\Dictionary_linq.runtimeconfig.dev.json
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_linq\bin\Debug\netcoreapp3.1\Dictionary_linq.dll
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_linq\bin\Debug\netcoreapp3.1\Dictionary_linq.pdb
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_linq\obj\Debug\netcoreapp3.1\Dictionary_linq.AssemblyInfoInputs.cache
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_linq\obj\Debug\netcoreapp3.1\Dictionary_linq.AssemblyInfo.cs
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_linq\obj\Debug\netcoreapp3.1\Dictionary_linq.csproj.CoreCompileInputs.cache
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_linq\obj\Debug\netcoreapp3.1\Dictionary_linq.dll
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_linq\obj\Debug\netcoreapp3.1\Dictionary_linq.pdb
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_linq\obj\Debug\netcoreapp3.1\Dictionary_linq.genruntimeconfig.cache

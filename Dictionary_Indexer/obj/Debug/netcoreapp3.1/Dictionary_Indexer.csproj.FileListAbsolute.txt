@@ -1,0 +1,12 @@
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_Indexer\bin\Debug\netcoreapp3.1\Dictionary_Indexer.exe
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_Indexer\bin\Debug\netcoreapp3.1\Dictionary_Indexer.deps.json
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_Indexer\bin\Debug\netcoreapp3.1\Dictionary_Indexer.runtimeconfig.json
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_Indexer\bin\Debug\netcoreapp3.1\Dictionary_Indexer.runtimeconfig.dev.json
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_Indexer\bin\Debug\netcoreapp3.1\Dictionary_Indexer.dll
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_Indexer\bin\Debug\netcoreapp3.1\Dictionary_Indexer.pdb
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_Indexer\obj\Debug\netcoreapp3.1\Dictionary_Indexer.AssemblyInfoInputs.cache
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_Indexer\obj\Debug\netcoreapp3.1\Dictionary_Indexer.AssemblyInfo.cs
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_Indexer\obj\Debug\netcoreapp3.1\Dictionary_Indexer.csproj.CoreCompileInputs.cache
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_Indexer\obj\Debug\netcoreapp3.1\Dictionary_Indexer.dll
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_Indexer\obj\Debug\netcoreapp3.1\Dictionary_Indexer.pdb
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_Indexer\obj\Debug\netcoreapp3.1\Dictionary_Indexer.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_Try_Add\bin\Debug\netcoreapp3.1\Dictionary_Try_Add.exe
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_Try_Add\bin\Debug\netcoreapp3.1\Dictionary_Try_Add.deps.json
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_Try_Add\bin\Debug\netcoreapp3.1\Dictionary_Try_Add.runtimeconfig.json
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_Try_Add\bin\Debug\netcoreapp3.1\Dictionary_Try_Add.runtimeconfig.dev.json
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_Try_Add\bin\Debug\netcoreapp3.1\Dictionary_Try_Add.dll
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_Try_Add\bin\Debug\netcoreapp3.1\Dictionary_Try_Add.pdb
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_Try_Add\obj\Debug\netcoreapp3.1\Dictionary_Try_Add.AssemblyInfoInputs.cache
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_Try_Add\obj\Debug\netcoreapp3.1\Dictionary_Try_Add.AssemblyInfo.cs
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_Try_Add\obj\Debug\netcoreapp3.1\Dictionary_Try_Add.csproj.CoreCompileInputs.cache
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_Try_Add\obj\Debug\netcoreapp3.1\Dictionary_Try_Add.dll
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_Try_Add\obj\Debug\netcoreapp3.1\Dictionary_Try_Add.pdb
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_Try_Add\obj\Debug\netcoreapp3.1\Dictionary_Try_Add.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dictionary_Try_Add/1.0.0": {
+        "runtime": {
+          "Dictionary_Try_Add.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dictionary_Try_Add/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

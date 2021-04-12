@@ -1,0 +1,12 @@
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_benchmark_stringComparer\bin\Debug\netcoreapp3.1\Dictionary_benchmark_stringComparer.exe
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_benchmark_stringComparer\bin\Debug\netcoreapp3.1\Dictionary_benchmark_stringComparer.deps.json
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_benchmark_stringComparer\bin\Debug\netcoreapp3.1\Dictionary_benchmark_stringComparer.runtimeconfig.json
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_benchmark_stringComparer\bin\Debug\netcoreapp3.1\Dictionary_benchmark_stringComparer.runtimeconfig.dev.json
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_benchmark_stringComparer\bin\Debug\netcoreapp3.1\Dictionary_benchmark_stringComparer.dll
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_benchmark_stringComparer\bin\Debug\netcoreapp3.1\Dictionary_benchmark_stringComparer.pdb
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_benchmark_stringComparer\obj\Debug\netcoreapp3.1\Dictionary_benchmark_stringComparer.AssemblyInfoInputs.cache
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_benchmark_stringComparer\obj\Debug\netcoreapp3.1\Dictionary_benchmark_stringComparer.AssemblyInfo.cs
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_benchmark_stringComparer\obj\Debug\netcoreapp3.1\Dictionary_benchmark_stringComparer.csproj.CoreCompileInputs.cache
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_benchmark_stringComparer\obj\Debug\netcoreapp3.1\Dictionary_benchmark_stringComparer.dll
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_benchmark_stringComparer\obj\Debug\netcoreapp3.1\Dictionary_benchmark_stringComparer.pdb
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_benchmark_stringComparer\obj\Debug\netcoreapp3.1\Dictionary_benchmark_stringComparer.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_ Get_Value_Or_Default\bin\Debug\netcoreapp3.1\Dictionary_ Get_Value_Or_Default.exe
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_ Get_Value_Or_Default\bin\Debug\netcoreapp3.1\Dictionary_ Get_Value_Or_Default.deps.json
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_ Get_Value_Or_Default\bin\Debug\netcoreapp3.1\Dictionary_ Get_Value_Or_Default.runtimeconfig.json
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_ Get_Value_Or_Default\bin\Debug\netcoreapp3.1\Dictionary_ Get_Value_Or_Default.runtimeconfig.dev.json
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_ Get_Value_Or_Default\bin\Debug\netcoreapp3.1\Dictionary_ Get_Value_Or_Default.dll
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_ Get_Value_Or_Default\bin\Debug\netcoreapp3.1\Dictionary_ Get_Value_Or_Default.pdb
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_ Get_Value_Or_Default\obj\Debug\netcoreapp3.1\Dictionary_ Get_Value_Or_Default.csprojAssemblyReference.cache
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_ Get_Value_Or_Default\obj\Debug\netcoreapp3.1\Dictionary_ Get_Value_Or_Default.AssemblyInfoInputs.cache
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_ Get_Value_Or_Default\obj\Debug\netcoreapp3.1\Dictionary_ Get_Value_Or_Default.AssemblyInfo.cs
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_ Get_Value_Or_Default\obj\Debug\netcoreapp3.1\Dictionary_ Get_Value_Or_Default.csproj.CoreCompileInputs.cache
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_ Get_Value_Or_Default\obj\Debug\netcoreapp3.1\Dictionary_ Get_Value_Or_Default.dll
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_ Get_Value_Or_Default\obj\Debug\netcoreapp3.1\Dictionary_ Get_Value_Or_Default.pdb
+C:\Users\gunel\Desktop\C#\Numuneler\Dictionary_example\Dictionary_ Get_Value_Or_Default\obj\Debug\netcoreapp3.1\Dictionary_ Get_Value_Or_Default.genruntimeconfig.cache
